@@ -1,0 +1,7 @@
+RewriteEngine On
+
+RewriteRule ^home?$ index.php
+RewriteRule ^portfolio?$ about.php
+RewriteRule ^view?$ view.php
+RewriteRule ^albums?$ weddings.php
+RewriteRule ^view-full?$ view-full.php
